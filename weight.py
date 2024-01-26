@@ -40,7 +40,7 @@ while True:
             continue
         else:
             print("INVALID COMMAND INSERTED!")
-            return
+            continue
     else:
         print("Please choose valid option!")
         continue
